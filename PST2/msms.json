@@ -1,0 +1,48 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "name": "Max",
+            "Instruments": "Piano",
+            "instruments": "Guitar"
+        },
+        {
+            "id": 2,
+            "name": "Leclerc",
+            "Instruments": "Piano"
+        },
+        {
+            "id": 3,
+            "name": "Alonso",
+            "Instruments": "Ukelele"
+        },
+        {}
+    ],
+    "teachers": [
+        {}
+    ],
+    "attendance": [
+        {
+            "student_id": "1",
+            "course_id": "Piano",
+            "timestamp": "2025-08-15T08:16:37.100900"
+        },
+        {
+            "student_id": "1",
+            "course_id": "Piano",
+            "timestamp": "2025-08-15T08:17:38.858864"
+        },
+        {
+            "student_id": "Max",
+            "course_id": "Guitar",
+            "timestamp": "2025-08-15T08:53:40.847862"
+        },
+        {
+            "student_id": "1",
+            "course_id": "Piano",
+            "timestamp": "2025-08-15T08:56:58.798098"
+        }
+    ],
+    "next_student_id": 5,
+    "next_teacher_id": 2
+}

@@ -1,0 +1,1 @@
+This is unfinished, uncompleted and completely untested code that will very likely not be maintained due to numerous personal circumstances plaguing the creation of this code. As such, all bug reports on any version of python you run this on will be IGNORED due to this piece of code not being meant for PUBLIC CONSUMPTION, USE AT YOUR OWN RISK.
